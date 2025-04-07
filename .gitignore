@@ -137,3 +137,5 @@ dist
 
 *.secret.*
 *.secrets.*
+
+.DS_STORE

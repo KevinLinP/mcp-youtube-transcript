@@ -1,0 +1,22 @@
+{
+  "name": "mcp-youtube-transcript",
+  "version": "0.1.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinLinP/mcp-youtube-transcript.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/KevinLinP/mcp-youtube-transcript/issues"
+  },
+  "homepage": "https://github.com/KevinLinP/mcp-youtube-transcript#readme",
+  "description": ""
+}
